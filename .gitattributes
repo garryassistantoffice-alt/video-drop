@@ -1,1 +1,2 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
+# Videos over 100 MB use Git LFS (needs lfs.github.com allowed); Shorts and small files stay plain git
+*-full.mp4 filter=lfs diff=lfs merge=lfs -text
