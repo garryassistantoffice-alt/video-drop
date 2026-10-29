@@ -4,4 +4,4 @@
 - `thumbnail.jpg` — the thumbnail (1280×720)
 - `shorts/` — eight vertical Shorts cut from the lecture, ready to upload
 
-The full 29-minute video (318 MB) goes here once large-file uploads are allowed.
+- `The_Solar_System_Slowly-full.mp4` — the full 29-minute lecture (1080p, 318 MB)
