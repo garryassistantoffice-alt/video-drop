@@ -33,10 +33,10 @@ painting moves. Each episode is a vertical video under 62 seconds, so YouTube tr
 ## Sounds and pictures
 - The slap in episodes 9 and 12 is the Pixabay sound Alex chose ("whip slap belt punch", freesound_community),
   a little slower, with reverb. Its credit line is already in those two descriptions.
-- Picture AA (the Countess dictating the letter, "Sull'aria") is not made yet. Episode 10 uses picture T (the
-  Countess and Susanna leaning close) for that line. If AA arrives, episode 10 can be remade with it in a few minutes.
+- Every picture is made. Episode 10 uses both versions of picture AA ("Sull'aria"): Susanna writing, then the
+  Countess holding the pin.
 
 ## Other files here
 - `SERIES.md`: the plan for all 12 episodes and their scripts
-- `CHATGPT_PICTURES_TO_MAKE.md`: the picture texts for ChatGPT (only AA is still missing)
+- `CHATGPT_PICTURES_TO_MAKE.md`: the picture texts for ChatGPT (all made)
 - `pictures-act1.md`, `pictures-act2.md`, `pictures-act34.md`: the same texts by act

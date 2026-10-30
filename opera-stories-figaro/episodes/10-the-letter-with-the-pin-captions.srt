@@ -7,25 +7,29 @@ The Marriage of Figaro, episode ten: the letter with the pin.
 The Countess, alone, remembers: Dove sono, where are the beautiful moments of sweetness and love? She will win her husband back.
 
 3
-00:00:11,040 --> 00:00:19,380
-She dictates, Susanna writes, Sull'aria: what a gentle breeze tonight, under the pines. The letter is sealed with a pin; the Count must send the pin back as his answer.
+00:00:11,040 --> 00:00:15,770
+She dictates, Susanna writes, Sull'aria: what a gentle breeze tonight, under the pines.
 
 4
-00:00:19,700 --> 00:00:26,830
-Village girls bring flowers to the Countess. Among them a shy one: Cherubino in a dress. Antonio pulls off the bonnet. Caught again!
+00:00:16,090 --> 00:00:19,870
+The letter is sealed with a pin; the Count must send the pin back as his answer.
 
 5
-00:00:27,150 --> 00:00:36,620
-The Count wants to punish him, but Barbarina speaks up: you kissed me, sir, and promised me whatever I want. I want Cherubino as my husband. The Count is trapped by his own promises.
+00:00:20,190 --> 00:00:27,320
+Village girls bring flowers to the Countess. Among them a shy one: Cherubino in a dress. Antonio pulls off the bonnet. Caught again!
 
 6
-00:00:36,940 --> 00:00:46,220
-The double wedding begins with a fandango. Kneeling for her bridal wreath, Susanna slips the Count the letter. He pricks his finger on the pin, drops it, then picks it up and pins it to his sleeve.
+00:00:27,640 --> 00:00:37,110
+The Count wants to punish him, but Barbarina speaks up: you kissed me, sir, and promised me whatever I want. I want Cherubino as my husband. The Count is trapped by his own promises.
 
 7
-00:00:46,540 --> 00:00:51,760
-Figaro sees and laughs: some girl has sent the Count a love note. He has no idea it was his bride.
+00:00:37,430 --> 00:00:46,710
+The double wedding begins with a fandango. Kneeling for her bridal wreath, Susanna slips the Count the letter. He pricks his finger on the pin, drops it, then picks it up and pins it to his sleeve.
 
 8
-00:00:52,080 --> 00:00:54,200
+00:00:47,030 --> 00:00:52,250
+Figaro sees and laughs: some girl has sent the Count a love note. He has no idea it was his bride.
+
+9
+00:00:52,570 --> 00:00:54,690
 Next episode: Figaro's jealousy.
