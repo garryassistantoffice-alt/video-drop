@@ -1,27 +1,27 @@
 1
-00:00:00,500 --> 00:00:03,470
+00:00:00,500 --> 00:00:03,440
 The Marriage of Figaro, episode four: off to the army.
 
 2
-00:00:03,790 --> 00:00:09,670
+00:00:03,760 --> 00:00:09,760
 Figaro arrives with villagers dressed in white, throwing flowers: thank you, noble Count, for abolishing the old right!
 
 3
-00:00:09,990 --> 00:00:15,500
+00:00:10,080 --> 00:00:15,480
 It's a trap. Figaro holds out a white veil: please, sir, put it on my bride yourself, here, in front of everyone.
 
 4
-00:00:15,820 --> 00:00:23,450
+00:00:15,800 --> 00:00:23,280
 The Count can't refuse in public. He smiles, praises them, and asks for a little delay, for a grander ceremony. Quietly he adds: find Marcellina.
 
 5
-00:00:23,770 --> 00:00:29,560
+00:00:23,600 --> 00:00:29,390
 And the page who heard too much? The Count forgives him, and makes him an officer in his regiment. He must leave at once.
 
 6
-00:00:29,880 --> 00:00:40,350
+00:00:29,710 --> 00:00:39,670
 Figaro whispers to the boy: I must talk to you before you go. Then he teases him with Non più andrai: no more fluttering about, little butterfly. Now it's moustaches, muskets, and marching through the mud.
 
 7
-00:00:40,670 --> 00:00:47,900
+00:00:39,990 --> 00:00:46,920
 But Cherubino is not leaving the palace. Upstairs, the Countess is alone and heartbroken. Next episode: the Countess's plan.

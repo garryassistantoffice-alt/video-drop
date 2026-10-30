@@ -18,7 +18,7 @@ and checked; the table says which are new.
 | 1 | The room next door | 1:01 | **new: stages, 30 Oct** |
 | 2 | The contract | 0:56 | **new: stages, 30 Oct** |
 | 3 | The boy behind the chair | 0:55 | **new: stages, 30 Oct** |
-| 4 | Off to the army | 0:49 | old (being remade) |
+| 4 | Off to the army | 0:48 | **new: stages, 30 Oct** |
 | 5 | The Countess's plan | 0:58 | old (being remade) |
 | 6 | The locked closet | 0:56 | old (being remade) |
 | 7 | The door opens | 0:54 | old (being remade) |
