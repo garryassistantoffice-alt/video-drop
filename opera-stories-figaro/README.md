@@ -26,7 +26,7 @@ and checked; the table says which are new.
 | 9 | Mother! | 0:54 | **new: stages, 30 Oct** |
 | 10 | The letter with the pin | 0:54 | **new: stages, 30 Oct** |
 | 11 | Figaro's jealousy | 0:46 | **new: stages, 30 Oct** |
-| 12 | Contessa, perdono | 0:52 | old (being remade) |
+| 12 | Contessa, perdono | 0:51 | **new: stages, 30 Oct** |
 
 ## Uploading in YouTube Studio
 1. Upload the mp4. Paste the first line of the `-youtube.txt` file as the title and the rest as the description.
