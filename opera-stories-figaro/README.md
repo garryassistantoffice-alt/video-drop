@@ -27,6 +27,11 @@ seconds, so YouTube treats it as a Short.
 | 11 | Figaro's jealousy | 0:46 |
 | 12 | Contessa, perdono | 0:51 |
 
+## The full film (`full/`)
+All 12 episodes in one 10-minute 16:9 video, with chapters, its own cover, subtitles and YouTube text (Alex: "take 12
+episodes, make one long video, post after all shorts are posted as a full opera"). To go out after the last Short:
+Thursday 5 November. Steps in `full/README.md`.
+
 ## Uploading in YouTube Studio
 1. Upload the mp4. Paste the first line of the `-youtube.txt` file as the title and the rest as the description.
 2. Under "Altered content", answer **Yes** (the paintings and the voice are made with AI).
