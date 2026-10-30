@@ -1,7 +1,11 @@
 # Opera Stories: The Marriage of Figaro in 12 episodes
 
-All 12 episodes are finished and ready for YouTube, in the folder `episodes/`. Narrator: Liam. One part of every
-painting moves. Each episode is a vertical video under 62 seconds, so YouTube treats it as a Short.
+The episodes are being remade on painted cutout stages (Alex, 30 October: "Take the old episode down, replace by
+new ones as they are ready"). In every shot the people stand as cut-out cards in front of the room, the camera turns
+a few degrees so they slide against it, the window light casts their shadows, and heads, hands and props move; nothing
+is repainted (`blender/README.md`). Narrator: Liam, with the Italian names. Each episode is a vertical video under 62
+seconds, so YouTube treats it as a Short. A remade episode replaces the old one in `episodes/` as soon as it is ready
+and checked; the table says which are new.
 
 ## For each episode, three files
 - `NN-title.mp4`: the video to upload
@@ -9,20 +13,20 @@ painting moves. Each episode is a vertical video under 62 seconds, so YouTube tr
   the famous number, the characters and the credits
 - `NN-title-captions.srt`: the exact narration with times, to upload under Subtitles (better than automatic ones)
 
-| # | Episode | Length |
-|---|---|---|
-| 1 | The room next door | 1:02 |
-| 2 | The contract | 0:57 |
-| 3 | The boy behind the chair | 0:57 |
-| 4 | Off to the army | 0:49 |
-| 5 | The Countess's plan | 0:58 |
-| 6 | The locked closet | 0:56 |
-| 7 | The door opens | 0:54 |
-| 8 | The trap in the garden | 0:49 |
-| 9 | Mother! | 0:53 |
-| 10 | The letter with the pin | 0:56 |
-| 11 | Figaro's jealousy | 0:48 |
-| 12 | Contessa, perdono | 0:52 |
+| # | Episode | Length | Version |
+|---|---|---|---|
+| 1 | The room next door | 1:01 | **new: stages, 30 Oct** |
+| 2 | The contract | 0:57 | old (being remade) |
+| 3 | The boy behind the chair | 0:57 | old (being remade) |
+| 4 | Off to the army | 0:49 | old (being remade) |
+| 5 | The Countess's plan | 0:58 | old (being remade) |
+| 6 | The locked closet | 0:56 | old (being remade) |
+| 7 | The door opens | 0:54 | old (being remade) |
+| 8 | The trap in the garden | 0:49 | old (being remade) |
+| 9 | Mother! | 0:53 | old (being remade) |
+| 10 | The letter with the pin | 0:56 | old (being remade) |
+| 11 | Figaro's jealousy | 0:48 | old (being remade) |
+| 12 | Contessa, perdono | 0:52 | old (being remade) |
 
 ## Uploading in YouTube Studio
 1. Upload the mp4. Paste the first line of the `-youtube.txt` file as the title and the rest as the description.

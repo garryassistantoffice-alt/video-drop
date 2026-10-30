@@ -1,39 +1,39 @@
 1
-00:00:00,500 --> 00:00:05,360
+00:00:00,500 --> 00:00:05,260
 The Marriage of Figaro, the whole story in short episodes. Episode one: the room next door.
 
 2
-00:00:05,680 --> 00:00:11,270
+00:00:05,580 --> 00:00:11,250
 Near Seville, about 1786. Figaro, the Count's valet, marries Susanna, the Countess's maid, today.
 
 3
-00:00:11,590 --> 00:00:17,910
+00:00:11,570 --> 00:00:17,950
 He is measuring their new bedroom, a gift from the Count. Perfect, says Figaro: if the Count rings at night, I'm there in two steps.
 
 4
-00:00:18,230 --> 00:00:23,630
+00:00:18,270 --> 00:00:23,650
 Susanna is not charmed. And when the Count sends you away on an errand, she says, he's at my door in three steps.
 
 5
-00:00:23,950 --> 00:00:26,680
+00:00:23,970 --> 00:00:26,650
 Because the Count, bored with his wife, now wants Susanna.
 
 6
-00:00:27,000 --> 00:00:35,120
+00:00:26,970 --> 00:00:35,080
 He once abolished the old lord's right to a servant's bride. Now he regrets it, and wants it back from her. Her own singing teacher, Basilio, carries his messages.
 
 7
-00:00:35,440 --> 00:00:42,740
+00:00:35,400 --> 00:00:42,530
 Figaro sees the plan. The Count is going to London as ambassador: Figaro will be his courier, always away, with Susanna close at hand.
 
 8
-00:00:43,060 --> 00:00:50,510
+00:00:42,850 --> 00:00:49,740
 So Figaro sings Se vuol ballare: if the Count wants to dance, I'll play the guitar. He will act the fool and turn every trick around.
 
 9
-00:00:50,830 --> 00:00:58,100
+00:00:50,060 --> 00:00:57,370
 But Figaro has another enemy. Marcellina, the housekeeper, holds a paper with his signature. If it stands, Susanna is not the one he marries.
 
 10
-00:00:58,420 --> 00:01:00,230
+00:00:57,690 --> 00:00:59,510
 Next episode: the contract.
