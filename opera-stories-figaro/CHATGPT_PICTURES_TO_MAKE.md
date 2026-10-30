@@ -1,5 +1,7 @@
 # Figaro: the pictures still to make in ChatGPT (34 pictures)
 
+**Done (30 October): all pictures are made except AA** (Sull'aria, episode 10, the box further down). Episode 10 uses picture T in its place until AA comes.
+
 You already have pictures 1-8 and B, C, D. These finish the whole opera (episodes 3-12).
 
 ## How
