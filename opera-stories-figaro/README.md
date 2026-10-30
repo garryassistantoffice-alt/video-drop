@@ -24,7 +24,7 @@ and checked; the table says which are new.
 | 7 | The door opens | 0:52 | **new: stages, 30 Oct** |
 | 8 | The trap in the garden | 0:47 | **new: stages, 30 Oct** |
 | 9 | Mother! | 0:54 | **new: stages, 30 Oct** |
-| 10 | The letter with the pin | 0:56 | old (being remade) |
+| 10 | The letter with the pin | 0:54 | **new: stages, 30 Oct** |
 | 11 | Figaro's jealousy | 0:48 | old (being remade) |
 | 12 | Contessa, perdono | 0:52 | old (being remade) |
 
