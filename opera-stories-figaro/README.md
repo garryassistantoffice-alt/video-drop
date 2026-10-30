@@ -20,7 +20,7 @@ and checked; the table says which are new.
 | 3 | The boy behind the chair | 0:55 | **new: stages, 30 Oct** |
 | 4 | Off to the army | 0:48 | **new: stages, 30 Oct** |
 | 5 | The Countess's plan | 0:57 | **new: stages, 30 Oct** |
-| 6 | The locked closet | 0:56 | old (being remade) |
+| 6 | The locked closet | 0:55 | **new: stages, 30 Oct** |
 | 7 | The door opens | 0:54 | old (being remade) |
 | 8 | The trap in the garden | 0:49 | old (being remade) |
 | 9 | Mother! | 0:53 | old (being remade) |
