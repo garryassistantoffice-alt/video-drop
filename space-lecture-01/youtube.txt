@@ -29,8 +29,9 @@ Images
 Mercury: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington
 Venus (radar): NASA/JPL (Magellan)
 Earth from Apollo 17: NASA
-Mars, Valles Marineris: NASA/JPL-Caltech/USGS (Viking)
+Mars (Hubble, May 2016): NASA, ESA, the Hubble Heritage Team (STScI/AURA), J. Bell (ASU), and M. Wolff (Space Science Institute)
 Vesta: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA (Dawn)
+Ceres: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA (Dawn)
 Jupiter (Cassini): NASA/JPL/University of Arizona
 Jupiter (Hubble): NASA, ESA, and A. Simon (Goddard Space Flight Center), CC BY 4.0
 Io: NASA/JPL/University of Arizona (Galileo)
