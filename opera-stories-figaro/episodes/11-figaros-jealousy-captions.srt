@@ -1,27 +1,27 @@
 1
-00:00:00,500 --> 00:00:03,680
+00:00:00,500 --> 00:00:03,550
 The Marriage of Figaro, episode eleven: Figaro's jealousy.
 
 2
-00:00:04,000 --> 00:00:10,950
+00:00:03,870 --> 00:00:10,780
 Night. Barbarina searches the garden with a lantern. She has lost the pin the Count gave her for Susanna, with a message: the seal of the pines.
 
 3
-00:00:11,270 --> 00:00:16,460
+00:00:11,100 --> 00:00:16,310
 Figaro hears it, and his world falls apart. His bride, on their wedding day, has a meeting with the Count.
 
 4
-00:00:16,780 --> 00:00:26,210
+00:00:16,630 --> 00:00:25,420
 Marcellina doubts it, but Figaro won't listen. He hides among the pines to catch them, and sings Aprite un po' quegli occhi: men, open your eyes and see what women really are.
 
 5
-00:00:26,530 --> 00:00:33,160
+00:00:25,740 --> 00:00:32,390
 Susanna and the Countess arrive, already in each other's clothes. Marcellina has warned Susanna that Figaro is hiding nearby.
 
 6
-00:00:33,480 --> 00:00:43,190
+00:00:32,710 --> 00:00:42,010
 So Susanna teases him. In Deh vieni, non tardar, one of the loveliest arias Mozart wrote, she sings: come, my love, don't be late. Figaro thinks it is for the Count. It is for him.
 
 7
-00:00:43,510 --> 00:00:46,750
+00:00:42,330 --> 00:00:45,020
 Next episode, the last one: Contessa, perdono.

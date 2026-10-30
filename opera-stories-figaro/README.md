@@ -25,7 +25,7 @@ and checked; the table says which are new.
 | 8 | The trap in the garden | 0:47 | **new: stages, 30 Oct** |
 | 9 | Mother! | 0:54 | **new: stages, 30 Oct** |
 | 10 | The letter with the pin | 0:54 | **new: stages, 30 Oct** |
-| 11 | Figaro's jealousy | 0:48 | old (being remade) |
+| 11 | Figaro's jealousy | 0:46 | **new: stages, 30 Oct** |
 | 12 | Contessa, perdono | 0:52 | old (being remade) |
 
 ## Uploading in YouTube Studio
