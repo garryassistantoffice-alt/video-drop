@@ -16,7 +16,7 @@ and checked; the table says which are new.
 | # | Episode | Length | Version |
 |---|---|---|---|
 | 1 | The room next door | 1:01 | **new: stages, 30 Oct** |
-| 2 | The contract | 0:57 | old (being remade) |
+| 2 | The contract | 0:56 | **new: stages, 30 Oct** |
 | 3 | The boy behind the chair | 0:57 | old (being remade) |
 | 4 | Off to the army | 0:49 | old (being remade) |
 | 5 | The Countess's plan | 0:58 | old (being remade) |

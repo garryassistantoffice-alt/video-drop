@@ -1,31 +1,31 @@
 1
-00:00:00,500 --> 00:00:03,250
+00:00:00,500 --> 00:00:03,230
 The Marriage of Figaro, episode two: the contract.
 
 2
-00:00:03,570 --> 00:00:10,590
+00:00:03,550 --> 00:00:10,570
 Marcellina, the palace housekeeper, once lent Figaro money. His signed promise: pay it back, or marry her. And today he marries Susanna.
 
 3
-00:00:10,910 --> 00:00:17,820
+00:00:10,890 --> 00:00:17,760
 Her plan is clever: frighten Susanna into refusing the Count. The Count, offended, will take Marcellina's side, and Figaro will be hers.
 
 4
-00:00:18,140 --> 00:00:26,830
+00:00:18,080 --> 00:00:26,610
 Her partner is old Doctor Bartolo. Why does he hate Figaro? In The Barber of Seville, Figaro helped the Count steal Bartolo's young ward, Rosina, who is now the Countess.
 
 5
-00:00:27,150 --> 00:00:35,020
+00:00:26,930 --> 00:00:34,380
 So Bartolo sings La vendetta: revenge is a pleasure for the wise. He will search every law book for a trick, because all of Seville knows Bartolo.
 
 6
-00:00:35,340 --> 00:00:45,600
+00:00:34,700 --> 00:00:45,090
 Then Marcellina meets Susanna in the doorway. A duel of curtsies: after you, my dazzling lady! No, after you, my spicy lady! Your position, says one. Your age, says the other. Marcellina storms off.
 
 7
-00:00:45,920 --> 00:00:53,450
+00:00:45,410 --> 00:00:52,600
 Susanna is still laughing when someone rushes in: Cherubino, the Count's teenage page, in love with every woman in the palace. And he is in trouble.
 
 8
-00:00:53,770 --> 00:00:55,950
+00:00:52,920 --> 00:00:55,090
 Next episode: the boy behind the chair.
