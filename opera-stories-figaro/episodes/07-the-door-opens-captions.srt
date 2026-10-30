@@ -1,31 +1,31 @@
 1
-00:00:00,500 --> 00:00:03,530
+00:00:00,500 --> 00:00:03,550
 The Marriage of Figaro, episode seven: the door opens.
 
 2
-00:00:03,850 --> 00:00:11,270
+00:00:03,870 --> 00:00:11,290
 Out steps Susanna. Calm, smiling: my lord, why so surprised? The Count is lost. The Countess is just as stunned, but quickly plays along.
 
 3
-00:00:11,590 --> 00:00:19,550
+00:00:11,610 --> 00:00:19,420
 Now the Count must beg forgiveness. Rosina, he says, her name from the old days. And the letter about a lover? Figaro wrote it, the women admit. Only a joke.
 
 4
-00:00:19,870 --> 00:00:29,940
+00:00:19,740 --> 00:00:29,660
 Figaro bursts in: the music is ready, let's have the wedding! Then Antonio the gardener, Susanna's uncle, half drunk, with a smashed pot of carnations: a man jumped from this balcony onto my flowers!
 
 5
-00:00:30,260 --> 00:00:36,080
+00:00:29,980 --> 00:00:35,510
 It was me, says Figaro, rubbing his ankle. Then you dropped this paper, says Antonio. The Count grabs it. What is it?
 
 6
-00:00:36,400 --> 00:00:43,290
+00:00:35,830 --> 00:00:42,290
 The women whisper the answer: Cherubino's officer's commission. And why did you have it? Because, says Figaro, it needed the seal. Saved again.
 
 7
-00:00:43,610 --> 00:00:50,380
+00:00:42,610 --> 00:00:48,710
 But then Marcellina, Bartolo and Basilio march in with the contract, and the Count smiles. He will judge the case himself.
 
 8
-00:00:50,700 --> 00:00:52,790
+00:00:49,030 --> 00:00:51,120
 Next episode: the trap in the garden.
