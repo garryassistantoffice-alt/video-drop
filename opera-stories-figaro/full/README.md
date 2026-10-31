@@ -1,13 +1,20 @@
-# The Marriage of Figaro: the full film (all 12 episodes in one)
+# The Marriage of Figaro: the full film (the whole story in one)
 
-Alex, 30 October 2026: "take 12 episodes, make one long video, post after all shorts are posted as a full opera".
+Alex, 30 October 2026: "take 12 episodes, make one long video, post after all shorts are posted as a full opera", then,
+after watching the first version: "We need to get rid of counting the episodes in the big video. It should be just one
+story." This is the second version (31 October): ONE story.
 
-- `the-marriage-of-figaro-full.mp4`: the film, 10 minutes 22 seconds, 1920x1080 (242 MB). Each episode is a chapter; it stops just
-  before "Next episode", the piano fades, and the next episode begins with its own title. A 10-second end card at
-  the end, with its right half free for YouTube's end screen.
-- `youtube.txt`: the title, the description (with the 12 chapters, which YouTube shows as chapters) and the tags
-- `thumbnail.jpg`: the cover (1280x720)
+- `the-marriage-of-figaro-full.mp4`: the film, 9 minutes 38 seconds, 1920x1080 (204 MB). No episode numbers, no
+  episode titles, no "next episode": one opening title, then the story scene by scene. Between two different paintings
+  the picture dissolves; when the same painting goes on, it cuts to a new framing, and the piano carries on under it.
+  A 10-second end card at the end, with its right half free for YouTube's end screen.
+- `youtube.txt`: the title, the description (chapters named after the scenes) and the tags
+- `thumbnail.jpg`: the cover (1280x720), the same as before
 - `captions.srt`: the narration of the whole film with times, for Subtitles
+
+## Replacing the first version (it is scheduled for Thursday 5 November)
+YouTube cannot swap a video's file, so: Studio -> Content -> the old "The Marriage of Figaro: the whole story in 10
+minutes" -> the three dots -> Delete forever. Then upload this one as below (same title, new description and subtitles).
 
 ## Uploading in YouTube Studio (after the last Short is out: Thursday 5 November)
 1. Create -> Upload videos -> the mp4.
