@@ -1,2 +1,4 @@
 # Videos over 100 MB use Git LFS (needs lfs.github.com allowed); Shorts and small files stay plain git
 *-full.mp4 filter=lfs diff=lfs merge=lfs -text
+# A download copy of a subtitles file: served by media.githubusercontent.com as a file, so an iPad saves it (Safari shows a plain .srt as text)
+figaro-full-subtitles.srt filter=lfs diff=lfs merge=lfs -text

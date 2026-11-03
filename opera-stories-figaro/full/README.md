@@ -26,3 +26,6 @@ minutes" -> the three dots -> Delete forever. Then upload this one as below (sam
    one video, placed on the right half (the words of the end card are on the left).
 6. Visibility: Schedule -> Thursday 5 November 2026, 16:00 Paris time (10:00 New York).
 7. Once it is public (optional): each Short -> Details -> Related video -> the full film, so a Short leads to it.
+
+figaro-full-subtitles.srt: the same subtitles as captions.srt, kept as a large file so that the download link
+(media.githubusercontent.com) saves it as a file on an iPad. Safari only shows captions.srt as text (3 Nov 2026).
