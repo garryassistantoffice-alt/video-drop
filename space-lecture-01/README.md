@@ -1,7 +1,10 @@
 # The Solar System, Slowly (space lecture 1)
 
-- `youtube.txt` — title, description, chapters and credits for the full lecture
-- `thumbnail.jpg` — the thumbnail (1280×720)
-- `shorts/` — eight vertical Shorts cut from the lecture, ready to upload
+- `shorts/`: the vertical Shorts cut from the lecture. All eight are out on Slow Orbit (one a day, 31 October to
+  7 November); each leaves this shelf a week after it went out.
 
-- `The_Solar_System_Slowly-full.mp4` — the full 29-minute lecture (1080p, 318 MB)
+## Gone from the shelf
+A week after a video is out on YouTube, its files leave this shelf (Alex, 30 October; the weekly check). They stay in
+the Git history.
+- 7 November 2026: the full 29-minute lecture with its `youtube.txt` and `thumbnail.jpg` (on YouTube since 29
+  October; Alex, 2 November: no repost) and Short 1, "A day on Mercury is longer than its year" (out 31 October).
