@@ -1,5 +1,8 @@
 # Opera Stories: The Marriage of Figaro in 12 episodes
 
+All 12 episodes and the full film are out on YouTube and have left this shelf (the last on 14 November 2026); their
+files stay in the Git history. What follows is how they were made and posted.
+
 All 12 episodes are finished on painted cutout stages (remade on 30 October 2026, replacing the earlier versions). In
 every shot the people stand as cut-out cards in front of the room, the camera turns a few degrees so they slide
 against it, the window light or the lanterns cast their shadows, and heads, hands and props move; nothing is
@@ -31,6 +34,8 @@ seconds, so YouTube treats it as a Short.
 A week after an episode is out on YouTube, its three files leave this shelf (Alex, 30 October; the weekly check).
 They stay in the Git history.
 - 7 November 2026: episodes 1, 2 and 3 (out on 30 and 31 October).
+- 14 November 2026: episodes 4 to 12 (out 31 October to 4 November) and the full film with its YouTube text, cover
+  and both subtitles files (premiered 5 November).
 
 ## The full film (`full/`)
 All 12 episodes in one 10-minute 16:9 video, with chapters, its own cover, subtitles and YouTube text (Alex: "take 12

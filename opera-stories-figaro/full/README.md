@@ -1,5 +1,9 @@
 # The Marriage of Figaro: the full film (the whole story in one)
 
+Gone from the shelf on 14 November 2026: the film premiered on YouTube on 5 November, so its files (the mp4,
+`youtube.txt`, `thumbnail.jpg`, `captions.srt` and `figaro-full-subtitles.srt`) left a week later, as every posted
+video does (Alex, 30 October). They stay in the Git history; the notes below are how it went out.
+
 Alex, 30 October 2026: "take 12 episodes, make one long video, post after all shorts are posted as a full opera", then,
 after watching the first version: "We need to get rid of counting the episodes in the big video. It should be just one
 story." This is the second version (31 October): ONE story.

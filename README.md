@@ -9,4 +9,5 @@ subtitles) stays in the Garry Forge repository.
 Links for Alex's iPad (3 November 2026): Safari shows a plain-git subtitles or text file (raw.githubusercontent.com)
 as text, so YouTube Studio's "Upload file" cannot find it. A subtitles file Alex uploads himself also gets a copy kept
 in Git LFS (a line in .gitattributes), and the link he gets is media.githubusercontent.com/media/<owner>/<repo>/<commit>/
-<path>: it comes as a download, like the videos. Example: opera-stories-figaro/full/figaro-full-subtitles.srt.
+<path>: it comes as a download, like the videos. Example (in the Git history since it left with its film on
+14 November): opera-stories-figaro/full/figaro-full-subtitles.srt.
