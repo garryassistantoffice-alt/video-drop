@@ -23,3 +23,7 @@ Named ep<episode>-<letter>.png; the letter matches the script lines in studio/do
 - ep06-V, V_b: the scapegoat (Giovanni drags Leporello; two near-identical versions)
 - ep06-W, W_smile, W_laugh: Traditore! (the same picture with three faces for Don Giovanni: sly, smiling, head back laughing)
 Versions of one picture differ only in faces and gestures: the animation fades between them inside the changed part (swap).
+- ep04-M: A friend in need (Giovanni bows to Anna and Ottavio)
+- ep04-N: Non ti fidar, o misera (Elvira warns Anna; Giovanni taps his temple)
+- ep04-O: That voice (Anna grips Ottavio as Giovanni walks away)
+- ep04-P: Or sai chi l'onore (Anna before her father's portrait)
