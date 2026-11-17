@@ -30,3 +30,9 @@ Versions of one picture differ only in faces and gestures: the animation fades b
 - ep07-X: Four gold coins (the clothes swap, the purse)
 - ep07-Y: Ah, taci, ingiusto core (Elvira on the balcony, Leporello in the cloak below); Y2 = a darker spare
 - ep07-Z: Deh, vieni alla finestra (the mandolin under the maid's window); Z2, Z3 = spares (he leans on the wall)
+- ep08-AA: Half of you this way (Giovanni in Leporello's coat sends Masetto's men off); AA2 = his face shadowed by the cap
+- ep08-fight1/2/3: the beating of Masetto. Alex 2026-11-17: "a little bit cartoonish ... add the sound of a fight and a quick montage between those pictures": quick cuts (about half a second each, a hard cut, a small shake) on "and beats him with them", with punch and scuffle sounds
+- ep08-BB: Vedrai, carino (Zerlina comforts the bruised Masetto)
+- ep08-CC: Caught in the dark (Leporello in the plumed hat cornered; Elvira pleads)
+- ep08-DD: Perdono, perdono! (Leporello on his knees, the hat on the ground)
+- ep09-EE: Laughter in the graveyard (Giovanni laughs on the tomb under the statue)
