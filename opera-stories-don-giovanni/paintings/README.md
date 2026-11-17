@@ -48,3 +48,4 @@ Versions of one picture differ only in faces and gestures: the animation fades b
 - ep03-I: The village wedding (Zerlina dances, Masetto claps; Giovanni and Leporello watch)
 - ep03-J replaced 2026-11-17 (the old one, ep03-J_old, had a doubled sword): sword half drawn from the scabbard, checked
 - ep03-J = ep03-J_sword (the fixed sword) with Zerlina's face from ep03-J_old put back (Alex 2026-11-17: "I liked it more"); soft-edged, aligned to the pixel
+- ep06-W_smile_face, W_laugh_face (Alex 2026-11-17: only the original W, with Don Giovanni's face from the variants): W with only his head and neck taken from W_smile / W_laugh, soft-edged; everything else is W (empty scabbard). Use these for the swaps, never W_smile/W_laugh
