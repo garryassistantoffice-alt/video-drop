@@ -1,27 +1,27 @@
 1
-00:00:00,500 --> 00:00:02,970
+00:00:00,500 --> 00:00:02,870
 Don Giovanni, episode five: the party.
 
 2
-00:00:03,890 --> 00:00:14,820
+00:00:03,790 --> 00:00:14,750
 Leporello reports: he took all the peasants to the palace, filled them with wine, and when Donna Elvira came to spoil everything, he led her out to the street and locked the door. Perfect, says his master. Now a great party.
 
 3
-00:00:15,740 --> 00:00:27,020
+00:00:15,670 --> 00:00:28,790
 Fin ch'han dal vino: while the wine warms their heads, let them dance, the minuet, the follia, the German dance. If you meet a pretty girl in the square, bring her along too. And by tomorrow morning, my list must be longer by ten.
 
 4
-00:00:28,340 --> 00:00:43,810
+00:00:30,110 --> 00:00:48,210
 In the garden, Masetto sulks. Zerlina knows how to win him back. Nothing happened, she swears: he did not even touch the tips of my fingers. Batti, batti, o bel Masetto: beat me, dear Masetto, I'll stand here like a little lamb. Pull my hair, put out my eyes. Then let us make peace, and spend our days and nights in joy. Masetto melts.
 
 5
-00:00:44,630 --> 00:00:52,590
-Then he hears that voice, and hides. Don Giovanni finds Zerlina, and then finds Masetto too. Not a bit put out, he takes them both into the ballroom on his arms.
+00:00:49,030 --> 00:00:56,430
+Then he hears that voice, and hides. Don Giovanni finds Zerlina, and then finds Masetto too. He takes them both into the ballroom on his arms.
 
 6
-00:00:53,910 --> 00:01:06,770
-Nightfall. Three guests arrive in masks and black cloaks: Donna Anna, Don Ottavio, Donna Elvira. From inside comes the music of a minuet. Leporello, at the window, sees three masked ladies and gentlemen. My master would like you to come to the dance, he calls.
+00:00:57,750 --> 00:01:08,720
+Nightfall. Three guests arrive in masks and black cloaks: Donna Anna, Don Ottavio, Donna Elvira. Leporello, at the window, sees three masked ladies and gentlemen. My master would like you to come to the dance, he calls.
 
 7
-00:01:07,690 --> 00:01:15,430
+00:01:09,640 --> 00:01:19,030
 They accept. At the door they stop, and pray together. Protegga il giusto cielo: may just heaven protect us. They have come to unmask a murderer, in his own house.
