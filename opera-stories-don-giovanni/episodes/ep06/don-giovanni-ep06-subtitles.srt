@@ -1,23 +1,23 @@
 1
-00:00:00,500 --> 00:00:03,250
+00:00:00,500 --> 00:00:03,270
 Don Giovanni, episode six: long live freedom.
 
 2
-00:00:04,170 --> 00:00:15,780
-The ballroom is full of candles and peasants. Don Giovanni greets the three masked guests himself. Come in, come in, lovely masks! The house is open to everyone, he cries. Long live freedom! And the masks sing it back to him, through their teeth.
+00:00:04,190 --> 00:00:18,240
+The ballroom is full of candles and peasants. Don Giovanni greets the three masked guests himself. Come in, come in, lovely masks! The house is open to everyone, he cries. Viva la libertà! Long live freedom! And the masks sing it back to him, through their teeth.
 
 3
-00:00:17,100 --> 00:00:36,750
-Then the music. Three bands play at the same time, three dances in three different rhythms: an elegant minuet for the nobles, a country dance, and a fast German dance. Donna Anna can barely stand it. Pretend, Don Ottavio whispers, for pity's sake. In the crowd, Don Giovanni dances with Zerlina, while Leporello grabs Masetto and makes him dance. Step by step, Don Giovanni moves Zerlina towards a door. And they are gone.
+00:00:19,560 --> 00:00:38,500
+Then the music. Three bands play at the same time, three dances in three different rhythms: an elegant minuet for the nobles, a country dance, and a fast German dance. Donna Anna can barely stand it. Pretend, Don Ottavio whispers. In the crowd, Don Giovanni dances with Zerlina, while Leporello grabs Masetto and makes him dance. Step by step, Don Giovanni moves Zerlina towards a door. And they are gone.
 
 4
-00:00:38,070 --> 00:00:51,870
-A scream from the next room. Help! The music stops. The guests break down the door. Out comes Don Giovanni, sword drawn, dragging Leporello by the collar. Here is the villain who insulted you, he shouts. I'll kill him. Nobody believes it. The wretch, they say, thinks a trick will hide his crime.
+00:00:39,820 --> 00:00:52,670
+A scream from the next room. Help! The guests break down the door. Out comes Don Giovanni, sword drawn, dragging Leporello by the collar. Here is the villain who insulted you, he shouts. I'll kill him. Nobody believes it. The wretch, they say, thinks a trick will hide his crime.
 
 5
-00:00:53,190 --> 00:01:02,700
-The three guests take off their masks. Donna Elvira. Donna Anna. Don Ottavio, with a pistol in his hand. Traitor! We know everything now. Thunder over his head, they sing, the whole world will know.
+00:00:53,990 --> 00:01:05,070
+The three guests take off their masks. Donna Elvira. Donna Anna. Don Ottavio, with a pistol in his hand. Traditore! Traitor! We know everything now. Thunder over his head, they sing, the whole world will know.
 
 6
-00:01:03,620 --> 00:01:15,310
+00:01:05,990 --> 00:01:17,720
 Elvira, Anna, Ottavio, Zerlina and Masetto close in around him. Don Giovanni looks at them all, and is not afraid. Even if the world fell, he says, nothing would make me tremble. Sword in hand, he walks through them, and out into the night.
