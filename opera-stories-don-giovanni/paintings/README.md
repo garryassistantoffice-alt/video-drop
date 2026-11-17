@@ -45,3 +45,4 @@ Versions of one picture differ only in faces and gestures: the animation fades b
 - ep10-KK, KK_frost: Pentiti! (his hand on the stone arm; then both hands gripped, frost higher: the frost climbs)
 - ep10-LL, LL_torn: Tutto a tue colpe è poco (dragged down; LL_torn = clothes torn as he sinks)
 - ep10-MM, MM2: Questo è il fin di chi fa mal (two compositions of the morning after)
+- ep03-I: The village wedding (Zerlina dances, Masetto claps; Giovanni and Leporello watch)
